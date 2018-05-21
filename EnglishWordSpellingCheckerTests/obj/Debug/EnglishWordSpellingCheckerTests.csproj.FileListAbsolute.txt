@@ -1,0 +1,9 @@
+C:\Users\user\Downloads\104820018\EnglishWordSpellingCheckerTests\bin\Debug\EnglishWordSpellingCheckerTests.dll
+C:\Users\user\Downloads\104820018\EnglishWordSpellingCheckerTests\bin\Debug\EnglishWordSpellingCheckerTests.pdb
+C:\Users\user\Downloads\104820018\EnglishWordSpellingCheckerTests\bin\Debug\EnglishWordSpellingChecker.exe
+C:\Users\user\Downloads\104820018\EnglishWordSpellingCheckerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\user\Downloads\104820018\EnglishWordSpellingCheckerTests\bin\Debug\EnglishWordSpellingChecker.pdb
+C:\Users\user\Downloads\104820018\EnglishWordSpellingCheckerTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\user\Downloads\104820018\EnglishWordSpellingCheckerTests\obj\Debug\EnglishWordSpellingCheckerTests.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\104820018\EnglishWordSpellingCheckerTests\obj\Debug\EnglishWordSpellingCheckerTests.dll
+C:\Users\user\Downloads\104820018\EnglishWordSpellingCheckerTests\obj\Debug\EnglishWordSpellingCheckerTests.pdb

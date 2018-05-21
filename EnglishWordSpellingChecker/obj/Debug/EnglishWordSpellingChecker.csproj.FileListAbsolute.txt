@@ -1,0 +1,13 @@
+C:\Users\user\Downloads\104820018\EnglishWordSpellingChecker\bin\Debug\EnglishWordSpellingChecker.exe.config
+C:\Users\user\Downloads\104820018\EnglishWordSpellingChecker\bin\Debug\EnglishWordSpellingChecker.exe
+C:\Users\user\Downloads\104820018\EnglishWordSpellingChecker\bin\Debug\EnglishWordSpellingChecker.pdb
+C:\Users\user\Downloads\104820018\EnglishWordSpellingChecker\obj\Debug\EnglishWordSpellingChecker.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\104820018\EnglishWordSpellingChecker\obj\Debug\EnglishWordSpellingChecker.Properties.Resources.resources
+C:\Users\user\Downloads\104820018\EnglishWordSpellingChecker\obj\Debug\EnglishWordSpellingChecker.SolutionForm.resources
+C:\Users\user\Downloads\104820018\EnglishWordSpellingChecker\obj\Debug\EnglishWordSpellingChecker.ViewForm.resources
+C:\Users\user\Downloads\104820018\EnglishWordSpellingChecker\obj\Debug\EnglishWordSpellingChecker.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\104820018\EnglishWordSpellingChecker\obj\Debug\EnglishWordSpellingChecker.exe
+C:\Users\user\Downloads\104820018\EnglishWordSpellingChecker\obj\Debug\EnglishWordSpellingChecker.pdb
+C:\Users\user\Downloads\104820018_006\EnglishWordSpellingChecker\bin\Debug\EnglishWordSpellingChecker.exe.config
+C:\Users\user\Downloads\104820018_006\EnglishWordSpellingChecker\obj\Debug\EnglishWordSpellingChecker.exe
+C:\Users\user\Downloads\104820018_006\EnglishWordSpellingChecker\obj\Debug\EnglishWordSpellingChecker.pdb
